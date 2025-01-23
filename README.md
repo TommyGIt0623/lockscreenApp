@@ -10,9 +10,6 @@ This project is a C# application developed in Visual Studio that runs directly o
   - [Step 2: Import, Export, and Re-Import the Certificate](#step-2-import-export-and-re-import-the-certificate)
   - [Step 3: Copy the Executable File](#step-3-copy-the-executable-file)
 - [Running the Application](#running-the-application)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Requirements
 - **Windows Operating System**
@@ -71,4 +68,4 @@ To complete the setup, you will use the provided `Certificate.pfx` file and ensu
 2. Navigate to the output directory (e.g., `bin\Release` or `bin\Debug`) to locate the `.exe` file.
 3. Copy the `.exe` file to the following directory:
    ```plaintext
-   C:\programs
+   C:\Program Files
